@@ -1,11 +1,11 @@
-#Hello and welcome to term two of Code Club! 
+#Witaj na drugim semestrze Code Club!
 
-##New model
-Term two uses Scratch again but this time it's much harder. The focus this term is on the students using new found coding skills to create their own projects. 
+##Nowy model
+Na drugim semestrze będziemy nadal używać Scratcha, ale tym razem jeszcze intensywniej. W tym semestrze skupimy się na tym, by uczestnicy użyli nowo zdobytych umiejętności kodowania do stworzenia własnych projektów.   
 
-So for example the first project is a 'Design and animate your own monster project'. We provide the individual parts and some code (on Scratch cards) but it's up to the students to put all this together and be really creative. There is a worksheet for the students follow and notes for you the club leader for each project.
+Na przykład pierwszy projekt to "Stwórz i ożyw swojego własnego potwora". Udostępniamy pojedyncze części i kawałki kodu (na kartach Scratcha), ale to do uczestników należy poskładanie ich w całość przy użyciu własnej wyobraźni. Uczestnicy mogą korzystać z materiałów przygotowanych dla nich, a prowadzący ma do dyspozycji dodatkowe informacje.  
 
-##Timeframes
-There are three projects this term and each project should take about 3-4 weeks to complete but you'll need to work at the pace your club goes at. Don't rush them.
+##Ramy czasowe
+W tym semestrze do wykonania są trzy projekty, a każdy z nich powinien zająć około 3-4 tygodnie. Podążaj jednak zgodnie z tempem waszego klubu, nie pospieszaj uczesników.
 
-__Good luck!__
+__Powodzenia!__
