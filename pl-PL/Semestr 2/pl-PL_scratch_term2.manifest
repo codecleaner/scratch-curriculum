@@ -1,0 +1,124 @@
+{
+    "description": "",
+    "id": "scratch_02",
+    "language": "pl-PL",
+    "number": 2,
+    "title": "Scratch dla zaawansowanych",
+
+    "projects": [
+        {
+            "title":     "Stwórz potwora",
+            "number":    1,
+            "filename":  "01 Stwórz potwora/Dla uczestników/01 Stwórz potwora.md",
+            "pdf":       "01 Stwórz potwora/Dla uczestników/01 Stwórz potwora.pdf",
+            "note":      "01 Stwórz potwora/Dla prowadzących/01 Stwórz potwora - Notes.md",
+            "note_pdf":  "01 Stwórz potwora/Dla prowadzących/01 Stwórz potwora - Notes.pdf",
+            "materials": "01 Stwórz potwora/Dla prowadzących/Scratch - pliki/*.sb",
+
+            "extras": [
+                {
+                    "name": "Oczy",
+                    "note": "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-01 Stwórz potwora - Oczy.md",
+                    "pdf":  "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-01 Stwórz potwora - Oczy.pdf"
+                },
+
+                {
+                    "name": "Ramiona",
+                    "note": "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-02 Stwórz potwora - Ramiona.md",
+                    "pdf":  "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-02 Stwórz potwora - Ramiona.pdf"
+                },
+
+                {
+                    "name": "Nogi",
+                    "note": "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-03 Stwórz potwora - Nogi.md",
+                    "pdf":  "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-03 Stwórz potwora - Nogi.pdf"
+                },
+
+                {
+                    "name": "Usta i mówienie",
+                    "note": "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-04 Stwórz potwora - Usta.md",
+                    "pdf":  "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-04 Stwórz potwora - Usta.pdf"
+                },
+
+                {
+                    "name": "Ruch",
+                    "note": "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-05 Stwórz potwora - Ruch.md",
+                    "pdf":  "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-05 Stwórz potwora - Ruch.pdf"
+                },
+
+                {
+                    "name": "Czułki",
+                    "note": "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-06 Stwórz potwora - Czułki.md",
+                    "pdf":  "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-06 Stwórz potwora - Czułki.pdf"
+                },
+
+                {
+                    "name": "Koła",
+                    "note": "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-07 Stwórz potwora - Koła.md",
+                    "pdf":  "01 Stwórz potwora/Dla uczestników/Karty Scratch/01-07 Stwórz potwora - Koła.pdf"
+                }
+            ]
+        },
+
+        {
+            "title":     "Sound Machine",
+            "number":    2,
+            "embeds":    "02 Sound Machine/Dla uczestników/Karty Scratch/*.png",
+            "filename":  "02 Sound Machine/Dla uczestników/02 Sound Machine.md",
+            "pdf":       "02 Sound Machine/Dla uczestników/02 Sound Machine.pdf",
+            "note":      "02 Sound Machine/Dla prowadzących/02 Sound Machine - Notes.md",
+            "note_pdf":  "02 Sound Machine/Dla prowadzących/02 Sound Machine - Notes.pdf",
+            "materials": "02 Sound Machine/Dla prowadzących/Scratch - pliki/*.sb",
+
+            "extras": [
+                {
+                    "name": "Drum",
+                    "note": "02 Sound Machine/Dla uczestników/Karty Scratch/02-01 Sound Machine - Drum.md",
+                    "pdf":  "02 Sound Machine/Dla uczestników/Karty Scratch/02-01 Sound Machine - Drum.pdf"
+                },
+
+                {
+                    "name":   "Piano",
+                    "note":   "02 Sound Machine/Dla uczestników/Karty Scratch/02-02 Sound Machine - Piano.md",
+                    "pdf":    "02 Sound Machine/Dla uczestników/Karty Scratch/02-02 Sound Machine - Piano.pdf"
+                },
+
+                {
+                    "name": "Recorder",
+                    "note": "02 Sound Machine/Dla uczestników/Karty Scratch/02-03 Sound Machine - Recorder.md",
+                    "pdf":  "02 Sound Machine/Dla uczestników/Karty Scratch/02-03 Sound Machine - Recorder.pdf"
+                },
+
+                {
+                    "name": "Sound Sampler",
+                    "note": "02 Sound Machine/Dla uczestników/Karty Scratch/02-04 Sound Machine - Sound Sampler.md",
+                    "pdf":  "02 Sound Machine/Dla uczestników/Karty Scratch/02-04 Sound Machine - Sound Sampler.pdf"
+                }
+            ]
+        },
+
+        {
+            "title":     "Frantic Felix",
+            "number":    3,
+            "filename":  "03 Frantic Felix/Dla uczestników/03 Frantic Felix.md",
+            "pdf":       "03 Frantic Felix/Dla uczestników/03 Frantic Felix.pdf",
+            "note":      "03 Frantic Felix/Dla prowadzących/03 Frantic Felix - Notes.md",
+            "note_pdf":  "03 Frantic Felix/Dla prowadzących/03 Frantic Felix - Notes.pdf",
+            "materials": "03 Frantic Felix/Dla prowadzących/Scratch - pliki/*.sb",
+
+            "extras": [
+                {
+                    "name": "Record",
+                    "note": "03 Frantic Felix/Dla uczestników/Karty Scratch/03-01 Frantic Felix - Record.md",
+                    "pdf":  "03 Frantic Felix/Dla uczestników/Karty Scratch/03-01 Frantic Felix - Record.pdf"
+                },
+
+                {
+                    "name": "Playback",
+                    "note": "03 Frantic Felix/Dla uczestników/Karty Scratch/03-02 Frantic Felix - Playback.md",
+                    "pdf":  "03 Frantic Felix/Dla uczestników/Karty Scratch/03-02 Frantic Felix - Playback.pdf"
+                }
+            ]
+        }
+    ]
+}
